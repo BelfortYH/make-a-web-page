@@ -1,0 +1,54 @@
+.stage1{
+	display:flex;
+	margin-bottom:0px;
+	margin-top:0px;
+	margin-left:50px;
+	margin-right:50px;
+}
+
+.title{
+	color:#EBDEE9;
+	margin-left:300px;
+	margin-right:300px;
+	margin-bottom:0px;
+	font-family:Apple Chancery,cursive;
+	font-size:70px;
+}
+.s1note{
+	margin-left:50px;
+	margin-right:50px;
+	font-size:25px;
+	font-family:Apple Chancery,cursive;
+	color:white;
+}
+.s2note{
+	margin-left:50px;
+	margin-right:50px;
+	font-size:25px;
+	font-family:Apple Chancery,cursive;
+	color:white;
+}
+
+.note{
+	margin-left:50px;
+	margin-right:50px;
+	font-size:25px;
+	font-family:Apple Chancery,cursive;
+	color:white;
+}
+
+.content{
+	margin-left:50px;
+	margin-right:50px;
+	font-size:40px;
+	font-weight:bold;
+	color:white;
+	font-family:Apple Chancery,cursive;
+}
+
+.important{
+	color:yellow;
+}
+body{
+	background-image:url("http://www.siue.edu/~mhallor/madisonrobertsphotography/background.png");
+}
